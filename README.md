@@ -1,1 +1,1 @@
-<p align="center"><img src="thegestaltarts.svg"/></p>
+<p align="center"><img src="gestaltarts.svg"/></p>
